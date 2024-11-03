@@ -1,16 +1,16 @@
 # crDroid build target list
 # <device> <build_type> <auto-upload> <upload-recovery>
 #a73xq user yes yes
-#beryllium userdebug yes yes
+beryllium userdebug yes [recovery.img]
 #cheeseburger user yes no
 #clover userdebug yes no
 #courbet user yes yes
 #dumpling user yes no
-#guacamole userdebug yes yes
+guacamole userdebug yes [boot.img]
 #hotdog userdebug yes yes
 #kebab userdebug yes yes
-#lemonade userdebug yes yes
-#lemonadep userdebug yes yes
+lemonade userdebug yes [boot.img, vendor_boot.img]
+lemonadep userdebug yes [boot.img, vendor_boot.img]
 #lancelot userdebug yes yes
 #lunaa userdebug yes yes
 #m52xq user yes yes
