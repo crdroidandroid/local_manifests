@@ -7,4 +7,4 @@ lemonade userdebug yes [boot.img, vendor_boot.img]
 lemonadep userdebug yes [boot.img, vendor_boot.img]
 #lunaa userdebug yes yes
 #m52xq userdebug yes yes
-#surya userdebug yes yes
+surya userdebug yes [recovery.img]
