@@ -4,7 +4,7 @@
 beryllium userdebug yes [recovery.img]
 #cheeseburger user yes no
 #clover userdebug yes no
-courbet user yes [boot.img, recovery.img]
+courbet user yes [recovery.img]
 #dumpling user yes no
 guacamole userdebug yes [boot.img]
 #hotdog userdebug yes yes
