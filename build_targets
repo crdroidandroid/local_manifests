@@ -1,10 +1,10 @@
 # crDroid build target list
-# <device> <build_type> <auto-upload> <upload-recovery>
-a73xq userdebug yes yes
-courbet user yes yes
-guacamole userdebug yes yes
-lemonade userdebug yes yes
-lemonadep userdebug yes yes
-lunaa userdebug yes yes
-m52xq userdebug yes yes
-surya userdebug yes yes
+# <device> <build_type> <auto-upload> <saveimages>
+#a73xq userdebug yes yes
+#courbet user yes yes
+#guacamole userdebug yes yes
+#lemonade userdebug yes yes
+#lemonadep userdebug yes yes
+#lunaa userdebug yes yes
+#m52xq userdebug yes yes
+#surya userdebug yes yes
