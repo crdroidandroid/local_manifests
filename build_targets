@@ -24,4 +24,4 @@ salami userdebug yes [boot.img, dtbo.img, recovery.img, vbmeta.img, vendor_boot.
 sweet userdebug yes [recovery.img]
 vayu userdebug yes [recovery.img]
 #venus userdebug yes yes
-#zippo user yes yes
+zippo user yes [recovery.img]
