@@ -5,14 +5,14 @@ Server builds off info stored in crdroid.dependencies
 ### Usage
 Add to build_targets based on below info
 ```
-<device> <build_type> <auto-upload> <upload-recovery>
+<device> <build_type> <auto-upload> <saveimages>
 ```
 Description:
 ```
 <device> - device codename  
 <build_type> - user/userdebug/eng  
 <auto-upload> - yes/no (this autouploads complete build and recovery to SF)  
-<upload-recovery> - yes/no (upload recovery to SF)
+<saveimages> - array of images to save ex. [boot.img, vendor_boot.img]
 ```
 
 ### Dependencies
