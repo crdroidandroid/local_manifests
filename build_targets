@@ -7,7 +7,7 @@ beryllium userdebug yes [recovery.img]
 #courbet user yes yes
 #dumpling user yes no
 guacamole userdebug yes [boot.img]
-#hotdog userdebug yes yes
+hotdog userdebug yes [recovery.img, dtbo.img, vbmeta.img]
 #kebab userdebug yes yes
 lemonade userdebug yes [boot.img, vendor_boot.img]
 lemonadep userdebug yes [boot.img, vendor_boot.img]
