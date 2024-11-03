@@ -4,10 +4,10 @@
 beryllium userdebug yes [recovery.img]
 #cheeseburger user yes no
 #clover userdebug yes no
-#courbet user yes yes
+courbet user yes [recovery.img]
 #dumpling user yes no
 guacamole userdebug yes [boot.img]
-#hotdog userdebug yes yes
+hotdog userdebug yes [recovery.img, dtbo.img, vbmeta.img]
 #kebab userdebug yes yes
 lemonade userdebug yes [boot.img, vendor_boot.img]
 lemonadep userdebug yes [boot.img, vendor_boot.img]
@@ -18,10 +18,10 @@ lemonadep userdebug yes [boot.img, vendor_boot.img]
 #miatoll userdebug yes yes
 #PL2 userdebug yes yes
 sagit user yes [recovery.img]
-#salami userdebug yes yes
+salami userdebug yes [boot.img, dtbo.img, recovery.img, vbmeta.img, vendor_boot.img]
 #stone userdebug yes yes
 #surya user yes yes
 sweet userdebug yes [recovery.img]
 vayu userdebug yes [recovery.img]
 #venus userdebug yes yes
-#zippo user yes yes
+zippo user yes [recovery.img]
