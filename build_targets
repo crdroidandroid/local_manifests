@@ -9,7 +9,8 @@ lemonade userdebug yes [boot.img, vendor_boot.img]
 lemonadep userdebug yes [boot.img, vendor_boot.img]
 #lunaa userdebug yes yes
 #m52xq userdebug yes yes
-#surya userdebug yes yes
+surya userdebug yes [recovery.img]
 sweet userdebug yes [recovery.img]
 tokay userdebug yes [boot.img, dtbo.img, init_boot.img, vendor_boot.img, vendor_kernel_boot.img]
 vayu userdebug yes [recovery.img]
+zippo user yes [recovery.img]
