@@ -1,11 +1,16 @@
 # crDroid build target list
 # <device> <build_type> <auto-upload> <saveimages>
 #a73xq userdebug yes yes
+caiman userdebug yes [boot.img, dtbo.img, init_boot.img, vendor_boot.img, vendor_kernel_boot.img]
 #courbet user yes yes
 guacamole userdebug yes [boot.img]
+komodo userdebug yes [boot.img, dtbo.img, init_boot.img, vendor_boot.img, vendor_kernel_boot.img]
 lemonade userdebug yes [boot.img, vendor_boot.img]
 lemonadep userdebug yes [boot.img, vendor_boot.img]
 #lunaa userdebug yes yes
 #m52xq userdebug yes yes
 surya userdebug yes [recovery.img]
+sweet userdebug yes [recovery.img]
+tokay userdebug yes [boot.img, dtbo.img, init_boot.img, vendor_boot.img, vendor_kernel_boot.img]
+vayu userdebug yes [recovery.img]
 zippo user yes [recovery.img]
