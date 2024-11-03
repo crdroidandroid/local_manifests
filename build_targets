@@ -24,4 +24,4 @@ lemonadep userdebug yes [boot.img, vendor_boot.img]
 sweet userdebug yes [recovery.img]
 vayu userdebug yes [recovery.img]
 #venus userdebug yes yes
-#zippo user yes yes
+zippo user yes [recovery.img]
