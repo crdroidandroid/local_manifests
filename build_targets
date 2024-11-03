@@ -18,7 +18,7 @@ lemonadep userdebug yes [boot.img, vendor_boot.img]
 #miatoll userdebug yes yes
 #PL2 userdebug yes yes
 #sagit user yes yes
-#salami userdebug yes yes
+salami userdebug yes [boot.img, dtbo.img, recovery.img, vbmeta.img, vendor_boot.img]
 #stone userdebug yes yes
 #surya user yes yes
 sweet userdebug yes [recovery.img]
