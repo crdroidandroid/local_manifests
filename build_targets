@@ -1,5 +1,5 @@
 # crDroid build target list
-# <device> <build_type> <auto-upload> <upload-recovery>
+# <device> <build_type> <auto-upload> <saveimages>
 #a73xq user yes yes
 beryllium userdebug yes [recovery.img]
 #cheeseburger user yes no
