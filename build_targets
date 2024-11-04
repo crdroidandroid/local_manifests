@@ -1,11 +1,11 @@
 # crDroid build target list
 # <device> <build_type> <auto-upload> <saveimages>
-#a73xq user yes yes
+a73xq userdebug yes [recovery.img]
 beryllium userdebug yes [recovery.img]
-#cheeseburger user yes no
+cheeseburger user yes [boot.img]
 clover userdebug yes [recovery.img]
 courbet user yes [recovery.img]
-#dumpling user yes no
+dumpling user yes [boot.img]
 guacamole userdebug yes [boot.img]
 hotdog userdebug yes [recovery.img, dtbo.img, vbmeta.img]
 #kebab userdebug yes yes
@@ -13,13 +13,13 @@ lemonade userdebug yes [boot.img, vendor_boot.img]
 lemonadep userdebug yes [boot.img, vendor_boot.img]
 #lancelot userdebug yes yes
 #lunaa userdebug yes yes
-#m52xq user yes yes
+m52xq userdebug yes [recovery.img]
 mars userdebug yes [boot.img, vendor_boot.img]
 #miatoll userdebug yes yes
 #PL2 userdebug yes yes
 sagit user yes [recovery.img]
 salami userdebug yes [boot.img, dtbo.img, recovery.img, vbmeta.img, vendor_boot.img]
-#stone userdebug yes yes
+stone userdebug yes [boot.img]
 #surya user yes yes
 sweet userdebug yes [recovery.img]
 vayu userdebug yes [recovery.img]
