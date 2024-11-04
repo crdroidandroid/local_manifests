@@ -2,10 +2,10 @@
 # <device> <build_type> <auto-upload> <upload-recovery>
 a73xq userdebug yes [recovery.img]
 beryllium userdebug yes [recovery.img]
-#cheeseburger user yes no
+cheeseburger user yes [boot.img]
 clover userdebug yes [recovery.img]
 courbet user yes [recovery.img]
-#dumpling user yes no
+dumpling user yes [boot.img]
 guacamole userdebug yes [boot.img]
 hotdog userdebug yes [recovery.img, dtbo.img, vbmeta.img]
 #kebab userdebug yes yes
