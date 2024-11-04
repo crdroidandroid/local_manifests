@@ -19,7 +19,7 @@ m52xq userdebug yes [recovery.img]
 #PL2 userdebug yes yes
 sagit user yes [recovery.img]
 salami userdebug yes [boot.img, dtbo.img, recovery.img, vbmeta.img, vendor_boot.img]
-#stone userdebug yes yes
+stone userdebug yes [boot.img]
 #surya user yes yes
 sweet userdebug yes [recovery.img]
 vayu userdebug yes [recovery.img]
