@@ -1,5 +1,5 @@
 # crDroid build target list
-# <device> <build_type> <auto-upload> <upload-recovery>
+# <device> <build_type> <auto-upload> <saveimages>
 a73xq userdebug yes [recovery.img]
 beryllium userdebug yes [recovery.img]
 cheeseburger user yes [boot.img]
@@ -14,7 +14,7 @@ lemonadep userdebug yes [boot.img, vendor_boot.img]
 #lancelot userdebug yes yes
 #lunaa userdebug yes yes
 m52xq userdebug yes [recovery.img]
-#mars userdebug yes yes
+mars userdebug yes [boot.img, vendor_boot.img]
 #miatoll userdebug yes yes
 #PL2 userdebug yes yes
 sagit user yes [recovery.img]
@@ -23,5 +23,5 @@ stone userdebug yes [boot.img]
 #surya user yes yes
 sweet userdebug yes [recovery.img]
 vayu userdebug yes [recovery.img]
-#venus userdebug yes yes
+venus userdebug yes [boot.img, vendor_boot.img]
 zippo user yes [recovery.img]
