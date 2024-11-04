@@ -25,3 +25,6 @@ sweet userdebug yes [recovery.img]
 vayu userdebug yes [recovery.img]
 #venus userdebug yes yes
 zippo user yes [recovery.img]
+#lynx userdebug yes yes [boot.img, vendor_boot.img, vendor_kernek_boot.img, dtbo.img]
+#panther userdebug yes yes [boot.img, vendor_boot.img, vendor_kernek_boot.img, dtbo.img]
+#cheetah userdebug yes yes [boot.img, vendor_boot.img, vendor_kernek_boot.img, dtbo.img]
