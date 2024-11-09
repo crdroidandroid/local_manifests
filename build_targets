@@ -12,7 +12,7 @@ hotdog userdebug yes [recovery.img, dtbo.img, vbmeta.img]
 lemonade userdebug yes [boot.img, vendor_boot.img]
 lemonadep userdebug yes [boot.img, vendor_boot.img]
 #lancelot userdebug yes yes
-#lunaa userdebug yes yes
+lunaa userdebug yes [boot.img, dtbo.img, vendor_boot.img]
 m52xq userdebug yes [recovery.img]
 mars userdebug yes [boot.img, vendor_boot.img]
 #miatoll userdebug yes yes
