@@ -8,7 +8,7 @@ guacamole userdebug yes [boot.img]
 komodo userdebug yes [boot.img, dtbo.img, init_boot.img, vendor_boot.img, vendor_kernel_boot.img]
 lemonade userdebug yes [boot.img, vendor_boot.img]
 lemonadep userdebug yes [boot.img, vendor_boot.img]
-#lunaa userdebug yes yes
+lunaa userdebug yes [boot.img, dtbo.img, vendor_boot.img]
 m52xq userdebug yes [recovery.img]
 salami userdebug yes [boot.img, dtbo.img, recovery.img, vbmeta.img, vendor_boot.img]
 surya userdebug yes [recovery.img]
