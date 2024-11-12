@@ -2,10 +2,10 @@
 # <device> <build_type> <auto-upload> <saveimages>
 a73xq userdebug yes [recovery.img]
 caiman userdebug yes [boot.img, dtbo.img, init_boot.img, vendor_boot.img, vendor_kernel_boot.img]
-cheeseburger user yes [boot.img, recovery.img]
+cheeseburger user yes [recovery.img]
 comet userdebug yes [boot.img, dtbo.img, init_boot.img, vendor_boot.img, vendor_kernel_boot.img]
 courbet user yes [recovery.img]
-dumpling user yes [boot.img, recovery.img]
+dumpling user yes [recovery.img]
 guacamole userdebug yes [boot.img]
 komodo userdebug yes [boot.img, dtbo.img, init_boot.img, vendor_boot.img, vendor_kernel_boot.img]
 lemonade userdebug yes [boot.img, vendor_boot.img]
