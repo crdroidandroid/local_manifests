@@ -3,6 +3,7 @@
 a73xq userdebug yes [recovery.img]
 caiman userdebug yes [boot.img, dtbo.img, init_boot.img, vendor_boot.img, vendor_kernel_boot.img]
 cheeseburger user yes [recovery.img]
+clover userdebug yes [recovery.img]
 comet userdebug yes [boot.img, dtbo.img, init_boot.img, vendor_boot.img, vendor_kernel_boot.img]
 courbet user yes [recovery.img]
 dumpling user yes [recovery.img]
