@@ -16,7 +16,7 @@ lunaa userdebug yes [boot.img, dtbo.img, vendor_boot.img]
 m52xq userdebug yes [recovery.img]
 mars userdebug yes [boot.img, vendor_boot.img]
 #miatoll userdebug yes yes
-#PL2 userdebug yes yes
+PL2 userdebug yes [boot.img]
 sagit user yes [recovery.img]
 salami userdebug yes [boot.img, dtbo.img, recovery.img, vbmeta.img, vendor_boot.img]
 stone userdebug yes [boot.img]
