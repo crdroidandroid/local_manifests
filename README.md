@@ -37,4 +37,4 @@ Format:
 *remote* - Defaults to **github** remote from [default.xml](https://github.com/crdroidandroid/android) manifest, however can use different one from remote list  
   
 ***Note 1***: *Branch* and *remote* should not be set if using default defined values (ex: with *crDroid 10*, branch is default to *14.0* while remote is *github*)  
-***Note 2***: As per rules, repos need to be tracked from crDroid or LOS Github or GitLab
+***Note 2***: As per rules, repos need to be tracked from crDroid GitHub or GitLab for dt, kernel or addons while hardware or some other small dependencies can be tracker from LOS. 
